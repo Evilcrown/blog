@@ -3,5 +3,5 @@
 
 
 * 学习记录
-  * [英语](englishStudy/)
+  * [:cn:英语](englishStudy/)
   * [linux](linux/)
